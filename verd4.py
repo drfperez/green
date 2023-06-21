@@ -43,6 +43,7 @@ while True:
     cv2.imshow("Frame", frame)
     cv2.imshow("Mask", mask)
     
+    
     # Esperar por la acción del usuario (presionar 'q' para salir)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
