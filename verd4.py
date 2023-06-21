@@ -51,3 +51,4 @@ while True:
 # Liberar recursos
 video.release()
 cv2.destroyAllWindows()
+
