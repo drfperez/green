@@ -43,6 +43,7 @@ while True:
     # Sumar los píxeles verdes al contador total
     pixels_verds_total += pixels_verds
     
+    
     # Mostrar los resultados
     print(f"Percentatge verd: {percentatge_verd:.2f}%")
     print(f"Píxels verds: {pixels_verds}")
